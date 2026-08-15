@@ -1,20 +1,17 @@
 # DayZ CE Visual Editor
 
-
-<p align="center">
-  <img src="preview/map_zones.png" alt="map_zones" width="470">
-  <img src="preview/events.png" alt="events" width="470">
-  <img src="preview/gameplay.png" alt="gameplay" width="470">
-</p>
-<p align="center">
-  <img src="preview/loot.png" alt="loot" width="470">
-  <img src="preview/cargo.png" alt="cargo" width="470">
-</p>
-
 ---
+## Preview
+<p align="center">
+  <img src="preview/map_zones.png" alt="map_zones" width="270">
+  <img src="preview/events.png" alt="events" width="270">
+  <img src="preview/gameplay.png" alt="gameplay" width="270">
+</p>
 
 ## Other Repos for this Tool
 - [**DayZ izurvive tiles Downloader**](https://github.com/tw0f1sh/DayZ-izurvive-tiles-Downloader)
+
+---
 
 [Deutsch](#deutsch) · [English](#english)
 
