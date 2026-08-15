@@ -1,5 +1,21 @@
 # DayZ CE Visual Editor
 
+
+<p align="center">
+  <img src="preview/map_zones.png" alt="map_zones" width="470">
+  <img src="preview/events.png" alt="events" width="470">
+  <img src="preview/gameplay.png" alt="gameplay" width="470">
+</p>
+<p align="center">
+  <img src="preview/loot.png" alt="loot" width="470">
+  <img src="preview/cargo.png" alt="cargo" width="470">
+</p>
+
+---
+
+## Other Repos for this Tool
+- [**DayZ izurvive tiles Downloader**](https://github.com/tw0f1sh/DayZ-izurvive-tiles-Downloader)
+
 [Deutsch](#deutsch) · [English](#english)
 
 A graphical Python/PySide6 editor for DayZ Central Economy and server configuration files, focused on `dayzOffline.chernarusplus`. The goal is to make common XML/JSON/CFG settings understandable and editable without having to work directly with raw configuration syntax.
